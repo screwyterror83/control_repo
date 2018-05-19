@@ -1,2 +1,2 @@
 # control_repo
-Puppet Sandbox
+This is sandbox repo for puppet
